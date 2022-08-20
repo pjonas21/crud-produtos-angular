@@ -1,14 +1,20 @@
-# Frontend
+## **CRUD de Produtos - Angular**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+### Projeto desenvolvido para aprendizado do framework Angular.
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## 🛠️ Funcionalidades do projeto
+
+- `Funcionalidade 1`: Acessar API de produtos, a partir de um JSON Server, apenas para testes.
+  `Futuramente sera substituido por uma aplicacao em Spring.`
+- `Funcionalidade 2`: Exibir os dados dos produtos.
+- `Funcionalidade 3`: Atualizar os dados dos produtos.
+- `Funcionalidade 4`: Deletar produtos.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
